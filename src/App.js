@@ -47,10 +47,6 @@ function App() {
           
         </div>
 
-      
-
-
-
         {data.name !== undefined &&
           <div className="bottom">
             <div className="feels">
