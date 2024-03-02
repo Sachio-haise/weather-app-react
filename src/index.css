@@ -33,6 +33,7 @@ span {
   position: relative;
   background-color: rgba(0,0,0,0.4);
   color: #fff;
+  padding-top: 3rem;
 }
 
 .app:before {
